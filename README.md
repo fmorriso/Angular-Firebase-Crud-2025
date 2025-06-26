@@ -1,5 +1,32 @@
-# FirebaseAngularCrud
+# Firebase Angular CRUD
 
+An example of using Angular 20 with Firebase to perform CRUD operations.
+## Tools Used
+
+| Tool             |  Version |
+|:-----------------|--------: |
+| @Angular/CLI     |   20.0.4 |
+| Angular          |   20.0.3 |
+| Angular/Material |   20.0.3 |
+| node             |  22.16.0 |
+| npm              |   11.4.2 |
+| WebStorm         | 2025.1.2 |
+| VSCode           |  1.101.2 |
+
+## Change History
+
+| Date       | Description                                   |
+|:-----------|:----------------------------------------------|
+| 2025-06-26 | Initial creation                              |
+
+## References
+
+* [From Zero to Firebase - 2026-05-16](https://medium.com/%40nitinsgavane/from-zero-to-firestore-a-hands-on-guide-for-2025-angular-projects-1ecc57b6546b)
+* [Angular](https://angular.dev/overview)
+* [Angular Material](https://material.angular.io/)
+* [Bootstrap](https://getbootstrap.com/)
+* [ng-bootstrap](https://ng-bootstrap.github.io/#/home)
+## Angular Stuff
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.0.4.
 
 ## Development server
